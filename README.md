@@ -2,7 +2,7 @@
 <p>Wise advice is a React App that gives out witty and random advice when the button is pressed. This app uses the RESTful API from <a href="https://api.adviceslip.com/advice">advice slip </a> and combines all the popular features of React into one simple and funny application</p>
 <h3>Technologies used:</h3>
 <p>JavaScript, React and API</p>
-<a href="" target="_blank">Deployed app</a>
+<a href="https://aminatakabba.github.io/wise_advice_reactapp/" target="_blank">Deployed app</a>
 
 <img src="src/img/screen preview.jpg">
 <img src="src/img/iphone-review.png">
