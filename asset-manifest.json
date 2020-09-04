@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wise_advice_reactapp/static/css/main.7cfcb58f.chunk.css",
+    "main.js": "/wise_advice_reactapp/static/js/main.855e90f9.chunk.js",
+    "main.js.map": "/wise_advice_reactapp/static/js/main.855e90f9.chunk.js.map",
+    "runtime-main.js": "/wise_advice_reactapp/static/js/runtime-main.a1b546ae.js",
+    "runtime-main.js.map": "/wise_advice_reactapp/static/js/runtime-main.a1b546ae.js.map",
+    "static/js/2.56872f72.chunk.js": "/wise_advice_reactapp/static/js/2.56872f72.chunk.js",
+    "static/js/2.56872f72.chunk.js.map": "/wise_advice_reactapp/static/js/2.56872f72.chunk.js.map",
+    "index.html": "/wise_advice_reactapp/index.html",
+    "precache-manifest.7aceb80f268a28736b768bc4039de884.js": "/wise_advice_reactapp/precache-manifest.7aceb80f268a28736b768bc4039de884.js",
+    "service-worker.js": "/wise_advice_reactapp/service-worker.js",
+    "static/css/main.7cfcb58f.chunk.css.map": "/wise_advice_reactapp/static/css/main.7cfcb58f.chunk.css.map",
+    "static/js/2.56872f72.chunk.js.LICENSE.txt": "/wise_advice_reactapp/static/js/2.56872f72.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/wise_advice_reactapp/static/media/bg-img.daac3ade.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1b546ae.js",
+    "static/js/2.56872f72.chunk.js",
+    "static/css/main.7cfcb58f.chunk.css",
+    "static/js/main.855e90f9.chunk.js"
+  ]
+}
