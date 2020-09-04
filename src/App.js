@@ -26,11 +26,16 @@ export default class App extends Component {
         const { advice } = this.state;
 
         return (
-            <div className="App">
+            <div className="app">
+                <p>*only requirement ... do not take it too seriously*</p>
+
                 <div className="card">
                     <h1 className="heading">
                         {advice}
                     </h1>
+                    <button className="button" onClick={this.fetchAdvice}>
+                        <span>GIVE ME ADVICE</span>
+                    </button>
                 </div>
             </div>
         );
